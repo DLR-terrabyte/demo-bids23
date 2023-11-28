@@ -1,0 +1,14 @@
+name: bids
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - jupyterlab
+  - jupyter-server-proxy
+  - dask
+  - odc-stac
+  - rioxarray
+  - pystac-client
+  - geogif
+  - localtileserver
+  - ipyleaflet
