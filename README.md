@@ -5,3 +5,6 @@ Demo notebooks for a tutorial given at the Big Data from Space 2023 conference t
 The tutorial demonstrates how to work with the Sentinel-1 Normalised Radar Backscatter (NRB) product using STAC, xarray and dask.  
 See here for further details about the product:  
 https://sentinel.esa.int/web/sentinel/sentinel-1-ard-normalised-radar-backscatter-nrb-product
+
+View the notebook in the browser:  
+https://nbviewer.org/github/DLR-terrabyte/demo-bids23/blob/main/demo.ipynb
