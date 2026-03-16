@@ -1,8 +1,8 @@
-name: bids
+name: bids23
 channels:
   - conda-forge
 dependencies:
-  - python=3.10
+  - python>=3.10
   - jupyterlab
   - jupyter-server-proxy
   - dask
@@ -12,3 +12,4 @@ dependencies:
   - geogif
   - localtileserver
   - ipyleaflet
+  - libgdal-jp2openjpeg
